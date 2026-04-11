@@ -5,14 +5,20 @@
 <table align="center">
   <tr>
     <td align="center" width="200">
+      <a href="https://github.com/likeablob/opencode-walkie-talkie">
+        <img src="assets/thumbnails/opencode-walkie-talkie.jpg" width="180" alt="opencode-walkie-talkie"><br>
+        <b>opencode-walkie-talkie</b>
+      </a>
+    </td>
+    <td align="center" width="200">
       <a href="https://github.com/likeablob/cydintosh">
-        <img src="https://raw.githubusercontent.com/likeablob/cydintosh/main/assets/cydintosh_front.jpg" width="180" alt=""><br>
+        <img src="assets/thumbnails/cydintosh.jpg" width="180" alt="cydintosh"><br>
         <b>cydintosh</b>
       </a>
     </td>
     <td align="center" width="200">
       <a href="https://github.com/likeablob/substrate-esp32-p4">
-        <img src="https://github.com/user-attachments/assets/2cf59409-a698-469b-ba82-176b7493d8e3" width="180" alt=""><br>
+        <img src="assets/thumbnails/substrate-esp32-p4.jpg" width="180" alt="substrate-esp32-p4"><br>
         <b>substrate-esp32-p4</b>
       </a>
     </td>
@@ -24,66 +30,66 @@
         <b>parakeet-api</b>
       </a>
     </td>
-    <td align="center" width="200">
-      <a href="https://github.com/likeablob/denki-kurage">
-        <img src="https://raw.githubusercontent.com/likeablob/denki-kurage/refs/heads/main/assets/denki_kurage_front_3.jpg" width="180" alt=""><br>
-        <b>denki-kurage</b>
-      </a>
-    </td>
   </tr>
   <tr>
     <td align="center" width="200">
+      <a href="https://github.com/likeablob/denki-kurage">
+        <img src="assets/thumbnails/denki-kurage.jpg" width="180" alt="denki-kurage"><br>
+        <b>denki-kurage</b>
+      </a>
+    </td>
+    <td align="center" width="200">
       <a href="https://github.com/likeablob/substrate-pixi">
-        <img src="https://cdn.hackaday.io/images/5696181773289475471.jpg" width="180" alt=""><br>
+        <img src="assets/thumbnails/substrate-pixi.jpg" width="180" alt="substrate-pixi"><br>
         <b>substrate-pixi</b>
       </a>
     </td>
     <td align="center" width="200">
       <a href="https://github.com/likeablob/push-to-whisper">
-        <img src="https://raw.githubusercontent.com/likeablob/push-to-whisper/main/assets/how_it_works.png" width="180" alt=""><br>
+        <img src="assets/thumbnails/push-to-whisper.jpg" width="180" alt="push-to-whisper"><br>
         <b>push-to-whisper</b>
       </a>
     </td>
     <td align="center" width="200">
       <a href="https://github.com/likeablob/cat-nyaight-light">
-        <img src="https://raw.githubusercontent.com/likeablob/cat-nyaight-light/main/assets/cnl-v1-landscape-s.jpg" width="180" alt=""><br>
+        <img src="assets/thumbnails/cat-nyaight-light.jpg" width="180" alt="cat-nyaight-light"><br>
         <b>cat-nyaight-light</b>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/likeablob/spin-maru">
-        <img src="https://raw.githubusercontent.com/likeablob/spin-maru/main/assets/spin_maru_1.jpg" width="180" alt=""><br>
-        <b>spin-maru</b>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="200">
+      <a href="https://github.com/likeablob/spin-maru">
+        <img src="assets/thumbnails/spin-maru.jpg" width="180" alt="spin-maru"><br>
+        <b>spin-maru</b>
+      </a>
+    </td>
+    <td align="center" width="200">
       <a href="https://github.com/likeablob/mini-media-control-bar">
-        <img src="https://raw.githubusercontent.com/likeablob/mini-media-control-bar/main/assets/mmcb_1.jpg" width="180" alt=""><br>
+        <img src="assets/thumbnails/mini-media-control-bar.jpg" width="180" alt="mini-media-control-bar"><br>
         <b>mini-media-control-bar</b>
       </a>
     </td>
     <td align="center" width="200">
       <a href="https://github.com/likeablob/tenki-hari">
-        <img src="https://raw.githubusercontent.com/likeablob/tenki-hari/refs/heads/main/images/tenki_hari_front.jpg" width="180" alt=""><br>
+        <img src="assets/thumbnails/tenki-hari.jpg" width="180" alt="tenki-hari"><br>
         <b>tenki-hari</b>
       </a>
     </td>
     <td align="center" width="200">
       <a href="https://github.com/likeablob/pizza-clock">
-        <img src="https://raw.githubusercontent.com/likeablob/pizza-clock/refs/heads/main/assets/pc_pizza12p_2.jpg" width="180" alt=""><br>
+        <img src="assets/thumbnails/pizza-clock.jpg" width="180" alt="pizza-clock"><br>
         <b>pizza-clock</b>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/likeablob/infinite-mucha-esque-scroll">
-        <img src="https://raw.githubusercontent.com/likeablob/infinite-mucha-esque-scroll/main/images/main.jpg" width="180" alt=""><br>
-        <b>infinite-mucha-esque-scroll</b>
       </a>
     </td>
   </tr>
   <tr>
+    <td align="center" width="200">
+      <a href="https://github.com/likeablob/infinite-mucha-esque-scroll">
+        <img src="assets/thumbnails/infinite-mucha-esque-scroll.jpg" width="180" alt="infinite-mucha-esque-scroll"><br>
+        <b>infinite-mucha-esque-scroll</b>
+      </a>
+    </td>
     <td align="center" width="200" style="vertical-align: middle;">
       <a href="https://github.com/likeablob/pulumi-oci-vm-stack">
         <div style="height: 135px; display: flex; align-items: center; justify-content: center; background: #f5f5f5; border-radius: 8px; margin-bottom: 8px;">
@@ -94,7 +100,7 @@
     </td>
     <td align="center" width="200">
       <a href="https://github.com/likeablob/slow-movie-player-7c">
-        <img src="https://raw.githubusercontent.com/likeablob/slow-movie-player-7c/main/images/smp7c_main.jpg" width="180" alt=""><br>
+        <img src="assets/thumbnails/slow-movie-player-7c.jpg" width="180" alt="slow-movie-player-7c"><br>
         <b>slow-movie-player-7c</b>
       </a>
     </td>
@@ -106,95 +112,95 @@
         <b>owon-bdm-webui</b>
       </a>
     </td>
-    <td align="center" width="200">
-      <a href="https://github.com/likeablob/endless-endless-eight">
-        <img src="https://raw.githubusercontent.com/likeablob/endless-endless-eight/main/images/eee_main.gif" width="180" alt=""><br>
-        <b>endless-endless-eight</b>
-      </a>
-    </td>
   </tr>
   <tr>
     <td align="center" width="200">
+      <a href="https://github.com/likeablob/endless-endless-eight">
+        <img src="assets/thumbnails/endless-endless-eight.jpg" width="180" alt="endless-endless-eight"><br>
+        <b>endless-endless-eight</b>
+      </a>
+    </td>
+    <td align="center" width="200">
       <a href="https://github.com/likeablob/kagedourou">
-        <img src="https://raw.githubusercontent.com/likeablob/kagedourou/develop/images/prototype_1.gif" width="180" alt=""><br>
+        <img src="assets/thumbnails/kagedourou.jpg" width="180" alt="kagedourou"><br>
         <b>kagedourou</b>
       </a>
     </td>
     <td align="center" width="200">
       <a href="https://github.com/likeablob/cyber-kamen">
-        <img src="https://raw.githubusercontent.com/likeablob/cyber-kamen/develop/images/ck.png" width="180" alt=""><br>
+        <img src="assets/thumbnails/cyber-kamen.jpg" width="180" alt="cyber-kamen"><br>
         <b>cyber-kamen</b>
       </a>
     </td>
     <td align="center" width="200">
       <a href="https://github.com/likeablob/HDMI-A2C">
-        <img src="https://raw.githubusercontent.com/likeablob/HDMI-A2C/main/images/hdmi_type_a_bended.jpg" width="180" alt=""><br>
+        <img src="assets/thumbnails/HDMI-A2C.jpg" width="180" alt="HDMI-A2C"><br>
         <b>HDMI-A2C</b>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/likeablob/rpi-wfh-webcam">
-        <img src="https://raw.githubusercontent.com/likeablob/rpi-wfh-webcam/master/assets/spam_s.gif" width="180" alt=""><br>
-        <b>rpi-wfh-webcam</b>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="200">
+      <a href="https://github.com/likeablob/rpi-wfh-webcam">
+        <img src="assets/thumbnails/rpi-wfh-webcam.jpg" width="180" alt="rpi-wfh-webcam"><br>
+        <b>rpi-wfh-webcam</b>
+      </a>
+    </td>
+    <td align="center" width="200">
       <a href="https://github.com/likeablob/misc-printable-accessories">
-        <img src="https://raw.githubusercontent.com/likeablob/misc-printable-accessories/master/images/models.png" width="180" alt=""><br>
+        <img src="assets/thumbnails/misc-printable-accessories.jpg" width="180" alt="misc-printable-accessories"><br>
         <b>misc-printable-accessories</b>
       </a>
     </td>
     <td align="center" width="200">
       <a href="https://github.com/likeablob/mlighter">
-        <img src="https://raw.githubusercontent.com/likeablob/mlighter/master/images/ml_s_10.jpg" width="180" alt=""><br>
+        <img src="assets/thumbnails/mlighter.jpg" width="180" alt="mlighter"><br>
         <b>mlighter</b>
       </a>
     </td>
     <td align="center" width="200">
       <a href="https://github.com/likeablob/macmini">
-        <img src="https://raw.githubusercontent.com/likeablob/macmini/master/images/mm_s_5.jpg" width="180" alt=""><br>
+        <img src="assets/thumbnails/macmini.jpg" width="180" alt="macmini"><br>
         <b>macmini</b>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/likeablob/miniDenko">
-        <img src="https://raw.githubusercontent.com/likeablob/miniDenko/master/images/md_photo_duo_1.jpg" width="180" alt=""><br>
-        <b>miniDenko</b>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="200">
+      <a href="https://github.com/likeablob/miniDenko">
+        <img src="assets/thumbnails/miniDenko.jpg" width="180" alt="miniDenko"><br>
+        <b>miniDenko</b>
+      </a>
+    </td>
+    <td align="center" width="200">
       <a href="https://github.com/likeablob/shihen">
-        <img src="https://raw.githubusercontent.com/likeablob/shihen/master/images/shihen_s_12.jpg" width="180" alt=""><br>
+        <img src="assets/thumbnails/shihen.jpg" width="180" alt="shihen"><br>
         <b>shihen</b>
       </a>
     </td>
     <td align="center" width="200">
       <a href="https://github.com/likeablob/magnetic-towel-holder">
-        <img src="https://raw.githubusercontent.com/likeablob/magnetic-towel-holder/master/images/main.png" width="180" alt=""><br>
+        <img src="assets/thumbnails/magnetic-towel-holder.jpg" width="180" alt="magnetic-towel-holder"><br>
         <b>magnetic-towel-holder</b>
       </a>
     </td>
     <td align="center" width="200">
       <a href="https://github.com/likeablob/vizinga">
-        <img src="https://raw.githubusercontent.com/likeablob/vizinga/master/assets/vizinga_banner_2.png" width="180" alt=""><br>
+        <img src="assets/thumbnails/vizinga.jpg" width="180" alt="vizinga"><br>
         <b>vizinga</b>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/likeablob/google-home-mini-wall-mount">
-        <img src="https://raw.githubusercontent.com/likeablob/google-home-mini-wall-mount/master/images/main.png" width="180" alt=""><br>
-        <b>google-home-mini-wall-mount</b>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="200">
+      <a href="https://github.com/likeablob/google-home-mini-wall-mount">
+        <img src="assets/thumbnails/google-home-mini-wall-mount.jpg" width="180" alt="google-home-mini-wall-mount"><br>
+        <b>google-home-mini-wall-mount</b>
+      </a>
+    </td>
+    <td align="center" width="200">
       <a href="https://github.com/likeablob/parametric-stackable-box">
-        <img src="https://raw.githubusercontent.com/likeablob/parametric-stackable-box/master/images/parametric-stackable-box_s.png" width="180" alt="parametric-stackable-box"><br>
+        <img src="assets/thumbnails/parametric-stackable-box.jpg" width="180" alt="parametric-stackable-box"><br>
         <b>parametric-stackable-box</b>
       </a>
     </td>
